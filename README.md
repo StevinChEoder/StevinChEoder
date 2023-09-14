@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StevinChEoder
-- 👀 I’m interested in RPA UIPath
-- 🌱 I’m currently learning RPA UIPath
+- 👀 I’m interested in Robocorp
+- 🌱 I’m currently learning Robocorp
 - 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me via stevin.7424@gmail.com
 
